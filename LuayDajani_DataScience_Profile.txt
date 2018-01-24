@@ -1,0 +1,11 @@
+Rate yourself from 1 to 5 (1 being “no skill” and 5 being “expert”) on the seven different skills required for a data scientist. If there are skills that you think are missing, add those to your list and rate yourself on those as well. Each skill is to be rated independently.
+
+-Computer programming: 3 (used to be a wizard, almost 5) 
+-Math: 3 (uuugh!) 
+-Statistics: 2 (only went up because of the Bridge course) 
+-Machine learning: 1 (you know nothing Jon Snow!) 
+-Domain expertise (and give the domain(s)): Telecom/Marketing 4 (maybe 3.75 really) 
+-Communication and presentation skills: 4 (another maybe 3.75) 
+-Data visualization: 3 
+
+-NOT MENTIONED: Danger Zoning - 5 (need to pull this one down)
